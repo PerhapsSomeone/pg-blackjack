@@ -1,0 +1,14 @@
+{
+    "name": "privateger/blackjack",
+    "type": "project",
+    "require": {
+        "sentry/sentry": "^1.9",
+        "ramsey/uuid": "^3.8"
+    },
+    "authors": [
+        {
+            "name": "PerhapsSomeone",
+            "email": "ma2003br@gmail.com"
+        }
+    ]
+}
